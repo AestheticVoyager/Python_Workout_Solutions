@@ -1,2 +1,4 @@
 # Python_Workout_Solutions
-Solution of all the 50 exercises from the Python Workout book by Reuven M. Lerner.
+
+The book, "Python Workout" book by Reuven M. Lerner (https://PythonWorkout.com/) contains 50 exercises that help to improve Python fluency. 
+This repository contains the code and solutions to those exercises, including all of the "beyond the exercise" additional, bonus exercises.
